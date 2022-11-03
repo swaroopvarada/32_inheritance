@@ -1,0 +1,2 @@
+# 32_inheritance
+inheritance
